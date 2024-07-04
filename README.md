@@ -2,9 +2,11 @@
 
 
 <div>
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;"/>
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Profile Banner" align="right" width="300" style="padding-right: 20px;"/>
 
-👋 Hi there! I'm Ronit Khurana, a passionate AI and software development enthusiast from Delhi, India. I specialize in deep learning, full-stack development, and innovative problem-solving. Welcome to my GitHub profile where you can explore my projects and see what I'm working on!
+👋 Hi there! I'm Ronit Khurana, a passionate AI and software development enthusiast from Delhi, India. I specialize in deep learning, full-stack development, and innovative problem-solving. With a solid foundation in computer science and hands-on experience with cutting-edge technologies, I'm dedicated to creating impactful solutions.
+
+Welcome to my GitHub profile, where you can explore my projects and see what I'm working on. From AI-powered applications to full-stack web development, my work reflects my commitment to continuous learning.
 
 ## 🛠️ Skills
 <div>
