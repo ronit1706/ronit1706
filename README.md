@@ -1,39 +1,22 @@
-# Ronit Khurana
+# About Me:
+👋 Hi there! I'm Ronit Khurana, a passionate AI and software development enthusiast from Delhi, India. I specialize in deep learning, full-stack development, and innovative problem-solving. With a solid foundation in computer science and hands-on experience with cutting-edge technologies, I'm dedicated to creating impactful solutions.<br><br>Welcome to my GitHub profile, where you can explore my projects and see what I'm working on. From AI-powered applications to full-stack web development, my work reflects my commitment to continuous learning.<br><br>
+Visit [my portfolio](https://ronit1706.github.io) to know more about me.
+<br><br>
 
 
-<div>
-<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronit1706) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25179271) 
 
-👋 Hi there! I'm Ronit Khurana, a passionate AI and software development enthusiast from Delhi, India. I specialize in deep learning, full-stack development, and innovative problem-solving. With a solid foundation in computer science and hands-on experience with cutting-edge technologies, I'm dedicated to creating impactful solutions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=ronit1706&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit1706&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Welcome to my GitHub profile, where you can explore my projects and see what I'm working on. From AI-powered applications to full-stack web development, my work reflects my commitment to continuous learning.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ronit1706&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Skills
-<div>
-<img src="https://media.licdn.com/dms/image/D4D12AQE1ioPOFoNVCw/article-cover_image-shrink_720_1280/0/1679083748046?e=1725494400&v=beta&t=8B4kGewrBBhK3qcu_a4e5x6U8Ta5VC_dIKFc02VGeMI" alt="Profile Banner" align="right" width="200" style="padding-right: 20px;" />
-</div>
-  <ul>
-    <li><b>Languages:</b> Python, C++, C, Java</li>
-    <li><b>Development:</b> HTML & CSS, JavaScript, React.js, Django</li>
-    <li><b>AI Frameworks:</b> OpenCV, NLTK, TensorFlow, PyTorch</li>
-    <li><b>Cloud & OSS:</b> Microsoft Azure, GCP, Git</li>
-    <li><b>DBMS:</b> MySQL, Oracle, MongoDB</li>
-  </ul>
-  
+---
+[![](https://visitcount.itsvg.in/api?id=ronit1706&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Get in Touch
-<div>
-  <img src="https://cdn.dribbble.com/users/3497212/screenshots/11476810/media/c18175dc05724f0c933fa8f49b2ff875.gif" alt="Thank You" align="right" width="200" style="padding-right: 20px;"/>
-</div>
-  <ul>
-    <li><b>Email:</b> <a href="mailto:ronitkhurana391@gmail.com">ronitkhurana391@gmail.com</a></li>
-    <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/ronit1706">Ronit Khurana</a></li>
-    <li><b>GitHub:</b> <a href="https://github.com/ronit1706">Ronit1706</a></li>
-    <li><b>My Portfolio:</b> <a href="https://ronit1706.github.io">Ronit1706</a></li>
-  </ul>
-
-
-
-
-
-Thank you for visiting my GitHub profile! Feel free to explore (and star) my repositories and connect with me. Let's build something amazing together!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
